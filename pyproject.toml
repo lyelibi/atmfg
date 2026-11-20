@@ -32,7 +32,7 @@ dev = ["pytest>=7", "networkx>=3.0", "tqdm"]
 
 [project.urls]
 Paper = "https://arxiv.org/abs/2603.09564"
-Repository = "https://github.com/YOUR-USERNAME/atmfg"
+Repository = "https://github.com/lyelibi/atmfg"
 
 [tool.setuptools.packages.find]
 include = ["atmfg*"]
