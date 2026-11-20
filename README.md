@@ -9,7 +9,7 @@ Paper: L. Yelibia, *a-TMFG: Scalable Triangulated Maximally Filtered Graphs via 
 ## Install
 
 ```bash
-pip install git+https://github.com/YOUR-USERNAME/atmfg
+pip install git+https://github.com/lyelibi/atmfg
 ```
 
 Requires Python 3.10+, with NumPy, SciPy, numba and hnswlib. `hnswlib` is distributed as source, so pip compiles it: this works out of the box on Linux and macOS. On Windows, install the [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) first, or get a prebuilt hnswlib with `conda install -c conda-forge hnswlib`.
