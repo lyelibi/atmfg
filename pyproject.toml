@@ -10,7 +10,7 @@ readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
 requires-python = ">=3.10"
-authors = [{ name = "Lionel Yelibia" }]
+authors = [{ name = "Lionel Yelibi" }]
 keywords = ["TMFG", "filtered graph", "correlation network", "planar graph", "HNSW", "kNN graph"]
 classifiers = [
     "Programming Language :: Python :: 3",
