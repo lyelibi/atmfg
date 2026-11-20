@@ -4,7 +4,7 @@ title: "atmfg: Approximate Triangulated Maximally Filtered Graphs"
 version: 1.0.0
 date-released: 2026-11-20
 license: MIT
-repository-code: "https://github.com/YOUR-USERNAME/atmfg"
+repository-code: "https://github.com/lyelibi/atmfg"
 authors:
   - family-names: Yelibia
     given-names: Lionel
