@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "atmfg: Approximate Triangulated Maximally Filtered Graphs"
+version: 1.0.0
+date-released: 2026-11-20
+license: MIT
+repository-code: "https://github.com/YOUR-USERNAME/atmfg"
+authors:
+  - family-names: Yelibia
+    given-names: Lionel
+    affiliation: "Department of Statistical Sciences, University of Cape Town"
+preferred-citation:
+  type: article
+  title: "a-TMFG: Scalable Triangulated Maximally Filtered Graphs via Approximate Nearest Neighbors"
+  authors:
+    - family-names: Yelibia
+      given-names: Lionel
+  year: 2026
+  journal: "arXiv preprint"
+  identifiers:
+    - type: other
+      value: "arXiv:2603.09564"
+  url: "https://arxiv.org/abs/2603.09564"
