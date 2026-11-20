@@ -4,7 +4,7 @@
 
 The [TMFG](https://doi.org/10.1093/comnet/cnw015) builds a sparse planar graph (3N − 6 edges) that keeps the strongest correlations between N variables. It needs the dense N × N correlation matrix, which limits it to tens of thousands of nodes. a-TMFG builds the same kind of graph from an approximate k-nearest-neighbour graph (HNSW), without ever forming the dense matrix. Memory and runtime grow close to linearly in N.
 
-Paper: L. Yelibia, *a-TMFG: Scalable Triangulated Maximally Filtered Graphs via Approximate Nearest Neighbors*, [arXiv:2603.09564](https://arxiv.org/abs/2603.09564).
+Paper: L. Yelibi, *a-TMFG: Scalable Triangulated Maximally Filtered Graphs via Approximate Nearest Neighbors*, [arXiv:2603.09564](https://arxiv.org/abs/2603.09564).
 
 ## Install
 
@@ -76,9 +76,9 @@ python benchmarks/run_benchmark.py   # accuracy vs. ground truth and exact TMFG,
 ## Citation
 
 ```bibtex
-@article{yelibia2026atmfg,
+@article{yelibi2026atmfg,
   title   = {a-TMFG: Scalable Triangulated Maximally Filtered Graphs via Approximate Nearest Neighbors},
-  author  = {Yelibia, Lionel},
+  author  = {Yelibi, Lionel},
   journal = {arXiv preprint arXiv:2603.09564},
   year    = {2026}
 }
